@@ -1,4 +1,4 @@
-# transportdatabase
+# TransportDatabase
 7 farklı ulaşım türünü destekleyen bir database modeli.
 
 Bu proje Introduction to Databases dersi kapsamında verilen kapsamlı bir dönem projesidir. 4 kişilik gruplar halinde yapılmıştır. Üyeler; Mustafa Kösem, Barash Mutlu, Sultan Delen, Özgür Zorlu'dur.
